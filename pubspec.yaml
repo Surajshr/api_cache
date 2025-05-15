@@ -1,10 +1,10 @@
 name: api_cache
 description: A Flutter package for caching API responses with expiration support using Hive.
 version: 1.0.0
-homepage: https://github.com/Surajshr/api_cache
-repository: https://github.com/Surajshr/api_cache
+homepage: https://github.com/Surajshr/api_cache/tree/dev
+repository: https://github.com/Surajshr/api_cache/tree/dev
 issue_tracker: https://github.com/Surajshr/api_cache/issues
-documentation: https://github.com/Surajshr/api_cache#readme
+documentation: https://github.com/Surajshr/api_cache/tree/dev#readme
 environment:
   sdk: '>=3.0.0 <4.0.0'
   flutter: ">=3.0.0"
