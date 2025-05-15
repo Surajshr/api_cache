@@ -2,8 +2,8 @@
 
 [![pub package](https://img.shields.io/pub/v/api_cache.svg)](https://pub.dev/packages/api_cache)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![CI](https://github.com/yourusername/api_cache/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/api_cache/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/yourusername/api_cache/branch/main/graph/badge.svg)](https://codecov.io/gh/yourusername/api_cache)
+<!-- [![CI](https://github.com/yourusername/api_cache/actions/workflows/ci.yml/badge.svg)](https://github.com/Surajshr/api_cache/actions/workflows/ci.yml) -->
+[![codecov](https://codecov.io/gh/Surajshr/api_cache/branch/main/graph/badge.svg)](https://codecov.io/gh/Surajshr/api_cache)
 [![style: very good analysis](https://img.shields.io/badge/style-very_good_analysis-B22C89.svg)](https://pub.dev/packages/very_good_analysis)
 
 A Flutter package for caching API responses with expiration support using Hive.
